@@ -1,0 +1,4 @@
+1、项目所需python模块有：  tkinter、pymysql、pyinstaller(打包为exe文件用)
+	安装命令：pip install -i https://pypi.tuna.tsinghua.edu.cn/simple 模块名称
+
+2、打包项目命令：pyinstaller -F -w main.py -i image/logo.gif
